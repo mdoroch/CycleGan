@@ -3,7 +3,7 @@
 This repository contains an implementation of the CycleGAN architecture based on the original paper: [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593). The model is trained on the **horse2zebra** dataset.
 
 ## Dataset
-The model is trained on the `horse2zebra` dataset, which is part of the [CycleGAN dataset collection](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/).
+The model is trained on the `horse2zebra` dataset (https://www.kaggle.com/arnaud58/horse2zebra).
 
 ## Features
 - Implements the CycleGAN architecture using PyTorch.
